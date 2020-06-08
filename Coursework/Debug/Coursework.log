@@ -1,0 +1,5 @@
+﻿  Coursework.cpp
+c:\users\brandon\desktop\cows and bulls\coursework\coursework.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\brandon\desktop\cows and bulls\coursework\coursework.cpp(44): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Coursework.vcxproj -> C:\Users\Brandon\Desktop\Cows and Bulls\Debug\Coursework.exe
+  Coursework.vcxproj -> C:\Users\Brandon\Desktop\Cows and Bulls\Debug\Coursework.pdb (Full PDB)
